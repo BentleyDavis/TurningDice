@@ -47,10 +47,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  // // Minify CSS
+  // eleventyConfig.addFilter("cssmin", function(code) {
+  //   return new CleanCSS({}).minify(code).styles;
+  // });
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function(code) {
