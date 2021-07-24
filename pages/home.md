@@ -7,6 +7,15 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+<style>
+body{
+text-align: center;
+}
+main {
+    padding-bottom: 2em;
+    margin: auto;
+}
+</style>
 ![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/static/img/hero.png)
 
 ## a new way to roll
