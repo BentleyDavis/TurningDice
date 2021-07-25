@@ -2,5 +2,6 @@
 layout: layouts/base.njk
 section: home
 ---
-test
-{{ layoutContent | safe }}
+{% for title, section in homePage %}
+  {{ section.content | md | safe }}
+{% endfor %}
