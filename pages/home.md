@@ -1,10 +1,10 @@
 ---
-layout: layouts/home.njk
 title: Turning Dice
 date: 2021-07-25T20:01:22.209Z
 permalink: /
 wide: true
 autoTitle: false
+layout: ""
 eleventyNavigation:
   key: " "
   order: 0
