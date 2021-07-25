@@ -49,7 +49,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   # Home Page Sections
   - name: "homePageSections"
-    label: "Home Page sectionss"
+    label: "Home Page Sections"
     folder: "homePage"
     create: true 
     format: "json-frontmatter"
