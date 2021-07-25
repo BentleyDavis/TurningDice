@@ -36,7 +36,12 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Wide", name: "wide", widget: "boolean", required: false }
       - { label: "Auto Title", name: "autoTitle", widget: "boolean", required: false }
-      - { label: "Layout", name: "layout", widget: "string", required: false}
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - { label: "page", value: "layouts/base.njk" }
+          - { label: "blog", value: "layouts/blog.njk" }
       - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
         name: "eleventyNavigation"
         widget: "object"
