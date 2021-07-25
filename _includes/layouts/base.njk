@@ -11,7 +11,7 @@
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
-		{% if autoTitle %}<h1>{{ title }}</h1>{% endif %}
+		{% if not hideTitle %}<h1>{{ title }}</h1>{% endif %}
 		{% if not wide %}<main>{% endif %}
 			{{ layoutContent | safe }}
 		{% if not wide %}</main>{% endif %}
