@@ -50,9 +50,9 @@ collections:
   # Home Page Sections
   - name: "homePageSections"
     label: "Home Page Sections"
-    folder: "homePage"
+    folder: "site_customization/homePage"
     create: true 
-    format: "json-frontmatter"
+    extension: "json"
     fields:
       - { label: "ID", name: "title", widget: "string" }
       - { label: "Content", name: "content", widget: "markdown" }
