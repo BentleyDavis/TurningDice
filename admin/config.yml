@@ -32,9 +32,9 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
-    label: "Page"
+    label: "Pages"
     folder: "pages"
-    create: false # Change to true to allow editors to create new pages
+    create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -46,4 +46,13 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # Home Page Sections
+  - name: "homePageSections"
+    label: "Home Page sectionss"
+    folder: "homePage"
+    create: true 
+    format: "json-frontmatter"
+    fields:
+      - { label: "ID", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
