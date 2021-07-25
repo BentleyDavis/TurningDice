@@ -1,4 +1,0 @@
-{
-  "title": "00 Center Everything",
-  "content": "<style>\n  body {\n    text-align: center;\n}\n  main {\n    margin: auto;\n}\n\n</style>"
-}

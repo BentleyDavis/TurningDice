@@ -4,7 +4,7 @@ date: 2021-07-25T20:01:22.209Z
 permalink: /
 wide: true
 autoTitle: false
-layout: ""
+layout: "layouts/base.njk"
 eleventyNavigation:
   key: " "
   order: 0
@@ -22,4 +22,4 @@ eleventyNavigation:
 
 ## a new way to roll
 
-<iframe src="https://turningdice.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://turningdice.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white; margin:auto;" frameborder="0" scrolling="no"></iframe>
