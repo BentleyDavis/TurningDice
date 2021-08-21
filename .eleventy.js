@@ -3,8 +3,19 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const fs = require("fs");
+const Image = require("@11ty/eleventy-img")
+const path = require('path')
 
 module.exports = function (eleventyConfig) {
+
+  eleventyConfig.addShortcode("file", function (filePath) {
+    if (fs.existsSync(filePath)) {
+      return fs.readFileSync(filePath, "utf-8");
+    }
+    //If the file doesn't exist, try it with out the last ectension eg. site.css.md might be site.css temporairly
+    return fs.readFileSync(filePath.substring(0, filePath.lastIndexOf(".")), "utf-8");
+  })
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -77,7 +88,7 @@ module.exports = function (eleventyConfig) {
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy({"site/img":"img"});
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
@@ -103,6 +114,48 @@ module.exports = function (eleventyConfig) {
     return md.render(text);
   });
 
+  async function imageShortcode(src, alt, layout) {
+    if (src[0] !==".") src= "." + src;
+    //let sizes = "(min-width: 1024px) 100vw, 50vw"
+    console.log(`Generating image(s) from:  ${src}`)
+    if(alt === undefined) {
+      // Throw an error on missing alt (alt="" works okay)
+      throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`)
+    }  
+    let metadata = await Image(src, {
+      widths: [600, 900, 1500],
+      formats: ['webp', 'jpeg'],
+      outputDir: "./_site/img/",
+      /* =====
+      Now we'll make sure each resulting file's name will 
+      make sense to you. **This** is why you need 
+      that `path` statement mentioned earlier.
+      ===== */
+      filenameFormat: function (id, src, width, format, options) {
+        const extension = path.extname(src)
+        const name = path.basename(src, extension)
+        return `${name}-${width}w.${format}`
+      }
+    })  
+    let lowsrc = metadata.jpeg[0]
+    let highsrc = metadata.jpeg[metadata.jpeg.length - 1]  
+    return `<amp-img
+        alt="${alt}"
+        src="${lowsrc.url}"
+        width="${highsrc.width}"
+        height="${highsrc.height}"
+        srcset="${Object.values(metadata).map(imageFormat => {
+        return imageFormat.map(entry => entry.srcset).join(", ")
+      }).join("\n")}"
+        layout="${layout}"
+        loading="lazy"
+        decoding="async">
+    </amp-img>`
+  }
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 
@@ -118,7 +171,7 @@ module.exports = function (eleventyConfig) {
     dir: {
       input: ".",
       includes: "_includes",
-      data: "site_customization",
+      data: "site/data",
       output: "_site"
     }
   };

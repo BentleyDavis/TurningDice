@@ -9,7 +9,7 @@ const Post = createClass({
     const entry = this.props.entry;
 
     return html`
-      <main>
+      <content>
         <article>
           <h1>${entry.getIn(["data", "title"], null)}</h1>
           <p>
@@ -40,7 +40,7 @@ const Post = createClass({
             }
           </p>
         </article>
-      </main>
+      </content>
     `;
   }
 });
