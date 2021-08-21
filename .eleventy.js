@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
     if (fs.existsSync(filePath)) {
       return fs.readFileSync(filePath, "utf-8");
     }
-    //If the file doesn't exist, try it with out the last ectension eg. site.css.md might be site.css temporairly
+    //If the file doesn't exist, try it with out the last extension eg. site.css.md might be site.css temporairly
     return fs.readFileSync(filePath.substring(0, filePath.lastIndexOf(".")), "utf-8");
   })
 
@@ -88,7 +88,7 @@ module.exports = function (eleventyConfig) {
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy({"site/img":"img"});
+  eleventyConfig.addPassthroughCopy("site/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
@@ -114,7 +114,7 @@ module.exports = function (eleventyConfig) {
     return md.render(text);
   });
 
-  async function imageShortcode(src, alt, layout) {
+  async function imageShortcode(src, alt, layout, classNames, focusArea) {
     if (src[0] !==".") src= "." + src;
     //let sizes = "(min-width: 1024px) 100vw, 50vw"
     console.log(`Generating image(s) from:  ${src}`)
@@ -139,7 +139,9 @@ module.exports = function (eleventyConfig) {
     })  
     let lowsrc = metadata.jpeg[0]
     let highsrc = metadata.jpeg[metadata.jpeg.length - 1]  
+    debugger
     return `<amp-img
+        class="${classNames?classNames:''}${focusArea?' focus-' + focusArea:''}"
         alt="${alt}"
         src="${lowsrc.url}"
         width="${highsrc.width}"
@@ -147,7 +149,7 @@ module.exports = function (eleventyConfig) {
         srcset="${Object.values(metadata).map(imageFormat => {
         return imageFormat.map(entry => entry.srcset).join(", ")
       }).join("\n")}"
-        layout="${layout}"
+        layout="${layout?layout:'responsive'}"
         loading="lazy"
         decoding="async">
     </amp-img>`

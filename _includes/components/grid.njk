@@ -4,7 +4,7 @@
         {% if regExp.test(item.inputPath) == false and item.data.draft != true %}
             <a class="card" href="{{item.url}}">
                 {% if item.data.image %}
-                    <amp-img class="card-img-top {{ item.data.imagePosition if item.data.imagePosition }}" src="{{item.data.image}}" alt="{{ item.data.title }}" layout="responsive" height="200" width="200"></amp-img>
+                    {% image item.data.image, item.data.title, item.data.imagePosition, "card-img-top", item.data.imageFocusArea %}
                 {% else %}
                     <div class="bigtext" >{{ item.data.title }}</div>
                 {% endif %}
