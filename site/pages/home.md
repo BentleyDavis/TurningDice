@@ -1,10 +1,11 @@
 ---
 title: Turning Dice
+image: /site/img/hero.png
 date: 2021-07-25T20:01:22.209Z
 permalink: /
 wide: true
 hideTitle: true
-layout: "layouts/base.njk"
+layout: layouts/base.njk
 eleventyNavigation:
   key: " "
   order: 0
@@ -18,7 +19,7 @@ eleventyNavigation:
 }
 </style>
 
-![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/img/hero.png)
+![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/site/img/hero.png)
 
 ## a new way to roll
 
