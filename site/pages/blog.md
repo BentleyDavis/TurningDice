@@ -1,11 +1,12 @@
 ---
-layout: layouts/blog.njk
 title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
+image: /site/img/hero.png
 date: 2017-01-01
 permalink: /blog/index.html
+layout: layouts/blog.njk
+metaDescription: A sample Blog page listing various posts and authors.
 eleventyNavigation:
-  key: " "
+  key: " Blog"
   order: 1
 ---
- 
+.
