@@ -6,7 +6,6 @@ tags:
   - post
   - diceadventures
   - dicegoblins
-  - ""
 summary: |
   Choose your own Dice adventures Page 1 
 image: /site/img/d20-green-fuz-sharpening-and-polishing-notes.jpg
