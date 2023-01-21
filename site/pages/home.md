@@ -24,7 +24,13 @@ eleventyNavigation:
 
 ## a new way to roll
 
-<iframe src="https://turningdice.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white; margin:auto;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScF2Bs-LCJvN3F9hDZt5LUd_IFAsYbTxe02yNXdbINHPE7Xvw/viewform?embedded=true" width="100%" height="710" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<br>
+<br>
+<br>
+
+<iframe src="https://turningdice.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white; margin:auto;" frameborder="0" scrolling="no"></iframe>
 
 <br>
 <br>
