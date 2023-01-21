@@ -22,10 +22,15 @@ eleventyNavigation:
 
 ![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/site/img/hero.png)
 
-## a new way to roll
+# a new way to roll
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScF2Bs-LCJvN3F9hDZt5LUd_IFAsYbTxe02yNXdbINHPE7Xvw/viewform?embedded=true" width="100%" height="710" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+<br>
+<br>
+<br>
+<div style="background-color: rgb(255 0 0 / 10%)">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScF2Bs-LCJvN3F9hDZt5LUd_IFAsYbTxe02yNXdbINHPE7Xvw/viewform?embedded=true" 
+width="100%" height="710" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
 <br>
 <br>
 <br>
