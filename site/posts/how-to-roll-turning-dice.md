@@ -9,4 +9,4 @@ image: /site/img/img_8298.jpg
 ---
 * Put the dice on a string
 * use the string to drag the dice across a surface until they roll
-* lift them up and look at the down on the dice at the top number.
+* lift them up and look  down on the dice at the top number.
