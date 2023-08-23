@@ -1,6 +1,6 @@
 ---
-title: Roll of the Day 6
-date: 2023-08-24T00:44:06.653Z
+title: Roll of the Day 7
+date: 2023-08-25T00:44:06.653Z
 author: " "
 tags:
   - post
@@ -16,16 +16,16 @@ T﻿oday's dice setup is :
 
 They give us:
 
-60 (d% read as 10's)
+20 (d% read as 10's)
 
- 10, 7 (2d20)
+ 9, 7 (2d20)
 
- 11, 10, (2d12)
+ 8, 6, (2d12)
 
-72, 59 ﻿(2d%) 
+39, 27 ﻿(2d%)  
 
-6﻿
+1
 
-6, 6  (on the d6's) 
+6, 2  (on the d6's) 
 
-and 3 & 2 on the  (2d4)
+and 3 & 4 on the  (2d4)
