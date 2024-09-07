@@ -10,7 +10,6 @@ eleventyNavigation:
   key: " "
   order: 0
 ---
-
 <style>
   body {
     text-align: center;
@@ -23,6 +22,8 @@ eleventyNavigation:
 ![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/site/img/hero.png)
 
 # a new way to roll
+
+![](/site/img/turningdiceheroexample.gif)
 
 <br>
 <br>
@@ -47,6 +48,7 @@ width="100%" height="710" frameborder="0" marginheight="0" marginwidth="0">Loadi
       margin: 15px auto !important;
     }
   </style>
+
   <blockquote class="instagram-media"
     data-instgrm-permalink="https://www.instagram.com/alexander_anotherskip_davis/?utm_source=ig_embed&amp;utm_campaign=loading"
     data-instgrm-version="14"
