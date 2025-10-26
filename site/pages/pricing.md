@@ -1,5 +1,6 @@
 ---
 title: Pricing
+image: /site/img/hero.png
 date: 2021-08-21T13:47:12.344Z
 permalink: /pricing/
 hideTitle: false
@@ -8,12 +9,17 @@ eleventyNavigation:
   order: 1
   key: Pricing
 ---
+### $﻿20 for a standard set of 1d4, 1d6, 1d8, 1d10, 1d100, 1d12, 1d20
+
+Fill out the form on the home page to get more info on how to buy.
+
+## Additional Dice
+
 Pricing: 20$+1$/die for the first 28 dice, then the 20$ setup fee is reapplied for the next set of 28 and so on of single relatively uncomplicated design runs.
 
 Ex: 20 dice (any combination) runs 40$, 29 dice =68$ 56 dice =96$, 57 dice= 117$, etc... (watch the price breaks dice goblin friends!)
 
 ## Design your own Turning Dice!!
-
 
 This comprehensive form is intended to take the decision tree for making Turning Dice out of my hands and put them in yours! Because of the astounding amount of choices the wise dice fan has a vision of their final choices. Write down that vision and share it to get as close as possible to your dream! 
 
