@@ -21,7 +21,11 @@ eleventyNavigation:
 
 ![Six ring dice hanging on a wood rod. d4, d6, d8, d10, d10s, d12, d20.](/site/img/hero.png)
 
-# a new way to roll
+# $﻿20 a set
+
+(1d4, 1d6, 1d8, 1d10, 1d100, 1d12, 1d20)
+
+# A new way to roll!
 
 ![](/site/img/turningdiceheroexample.gif)
 
