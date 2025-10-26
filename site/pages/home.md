@@ -25,6 +25,8 @@ eleventyNavigation:
 
 1d4, 1d6, 1d8, 1d10, 1d100, 1d12, 1d20 ([pricing](/pricing/))
 
+<br>
+
 # A new way to roll!
 
 ![](/site/img/turningdiceheroexample.gif)
