@@ -1,6 +1,6 @@
 ---
 title: Traps II
-date: 2025-12-16T22:21:22.851Z
+date: 2025-12-17T22:21:22.851Z
 author: " "
 tags:
   - post
