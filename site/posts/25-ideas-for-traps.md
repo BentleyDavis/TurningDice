@@ -1,0 +1,95 @@
+---
+title: 25 Ideas for Traps
+date: 2025-12-16T21:09:57.748Z
+author: " "
+tags:
+  - post
+  - Ormegarten
+  - traps
+summary: " Initial Thoughts"
+image: /site/img/map-dragons-throat.jpg
+---
+Rules for traps in the area around Ormegarten:	 
+
+In all cases any trap may be avoided or disarmed by making smart decisions and working their way through the trap in a sensible fashion. Each Trap should follow at least a three-clue rule. 	Although there may be other kinds of telegraphing as a part of handling the idea of the characters are adventurers and are therefore somewhat luckier than the average tomb explorer while still having potential consequences for failures through inattention. 
+
+In Meroch traps should be spotted with a Perceptionx2 roll vs a target number ranging from 20 to 29 (19+ 1d10). Certain traps will be preset in the Ormegarten Module but otherwise it is useful to have the ability to randomly set the value. 	
+
+As a variant rule In Ormegarten, a GM may choose to set all the traps at a TN of 20 to be perceived and 22 to be disarmed the first time in a particular area of the dungeon, unless marked on a map in the parties possession the second time and each time afterwards add 1 to the TN for traps to be detected and disarmed (to a Max of 30 and 32), representing improvements in traps and a certain lazes fair, resulting from over familiarity by the player characters potentially. 		
+
+Traps in and around the wild.  These are Spotted by sensible inquiries or using Investigation + Perception vs a TN of 15 or so opposed via Disguise +Craft. Disarmed or built sensibly preferably by Traps + Craft (game mechanically balancing a high risk/reward situation, much like combat). Damage is restricted to 5 per hour spent building the trap (which adds 5 to the TN involving setting/disarming the trap elements) unless the trap is merely a trigger for delivery of a pre existing game element (pipe bomb as an example) then it only takes 1d10 -Trap skill in minutes to safely execute the set up. If the TN is beat by 10 add 10 to find the final damage number (don't forget character relevant abilities) to convert into dice of damage to roll.
+
+A﻿ great deal of this does draw bits and pieces from TSR Era ideas and rules updated to Meroch. Here are 25 ideas for wilderness traps both naturally occurring and set by beings.  There are sub tables but those will have to go in a future post due to size of this post.
+
+Traplike situations and ideas in a somewhat alphabetical order just for randomness.
+
+01-05 Arrow trap: this is an engineering attempt that basically has a set springy way to launch an arrow (or other dangerous object) at a target.  Typically using an arrow, hand woven vegetation trip line and a bent springy vegetation to provide the force behind the arrow. 90% of these devices do not have extra arrows, mechanically auto resetting capacity or an extractable bow as part of the device.  20% of these will have a d5 level poison on the arrow if thematic to the area. 
+
+
+06-08 Ceiling lowers: this is a situation wherein the characters have gotten into an enclosure and the whole of the roofed area is coming down to crush the players. This should come across differently than a pit with a lid or a Knockover trap. Perhaps they have the opportunity to enter a liminal space, a one room dungeon or even a narrow space that becomes an enclosure like a grotto or a narrow space between trees. Escaping or stopping the trap should follow the typical rules for traps but this both restrains the characters and will eventually harm them.
+
+
+09-12 Chutes are typically found to be most trouble at or near the top of some higher ground. A decent percentage are enhanced by troublesome creatures but most of these are natural situations that will usually cause one of three difficulties: either split the party, challenge mapping briefly or increase the chances of a wandering monster. Being along a course of a chute  Only 10% of the time will cause a d10 of damage to the victims and there is a further 10% chance the incident might reveal an otherwise hidden location. Where possible 50% of these dump the characters involved into the nearest waterway or river as this is a part of water flow in the area.
+
+
+13-19 Distracting trash pile: Some loot either grows or survives unusual situations surprisingly well. The primary element of this being a trap is instead of using the trash as bait for a 'real trap' or hiding treasure intentionally the biggest cost to confidently eliminate the pile is a time cost of 3d10 minutes (per pile or 5 ft of debris)-(Investigation and Brains) . Examples include a Firewood pile randomly found in a room, may hide something good (some sort of treasure 20%) or bad (like having a few bugs or something else detrimental 20%), the DM should be checking for both and having both discoveries in the same pile is certainly possible. 
+
+
+20-23 Door Subtable: check the subtable when next the players encounter a door.
+
+
+24-27 Electrical Discharge trap someone has come up with a power source that has been turned into a pretty dangerous thing. The GM needs to determine the damage,(1d5 dice?), trigger elements and most importantly how the players will react to the rich treasure this can represent as electricity is not cheap in Ormegarten and may lead to individual players if not the whole group having a new major goal of benefiting from this potentially minor trap. (there is a 20% chance there is a data line within 1m of the discharge point)
+
+
+28-31 Floor illusionary/camouflage: in this case this style of trap operates like a collapsing floor but the floor space while appearing solid is non existent (making it look like the target disappeared from view) in some cases the covering is a variety of either physically or imagery of being solid. Aside from glamours, mechanically this can range from camouflage to something as simple as a rotating section of wall or floor with some soundproofing to cause the party to be split by the turn of events, frequently leading to a secret passage or serious danger.
+
+
+32-36 Floor, collapsing: perhaps from a decaying construction or a cunningly constructed object or simple battle damage.  In some cases this might drop characters into the middle of a hollow space which could be a sealed or semi sealed cavern forcing the characters through 'accident' into a potentially dangerous situation or the players encounter an area of quicksand or mud resulting in a very different challenge. This can become essentially a pit trap after the initial collapse.
+
+
+37-39 Gas Subtable: check the subtable for the kind of trap encountered..
+
+
+40-43 Jaw Trap: often camouflaged from scent as well as sight, this is the classic mechanical trap. Two opposing jaws with teeth are set to either restrain a limb or try to sever it entirely (sharpened). Triggered by a pressure plate designed to ensure something is touching the plate before it deploys when triggered. If blunt it deals 1d5 points of damage (only) then prevents the limb from being easily used and if the character can't beat a Grit x2 vs a 20 to 30 Tn \[depending on size/spring power] to release it, then the device remains a hold on the limb. If secured to a location, roll 2xBulk to detach a chain/spike set to move away (seeking help perhaps). Extremely dangerous if sharpened, since it can cause 10-20 damage depending upon size and spring power (for bipedal creatures with cyberware while walking and encountering the trap sensibly apply the damage reduction from cyberlimbs if they have declared cyberlimbs. Characters that don't have such declared limbs use the standard system these suggestions supersede). Natural events can include such things like gopher holes.
+
+44-49 Knockover trap:  Much like rolling devices, this trap concept uses something falling over or down like a ceiling collapsing to either contain or damage the intended Victim(s). Commonly triggered by a line or some other sort of energy transference method to release the potential energy.  A classic example is a tree, boulder or even a falling wardrobe. The bigger the item the better the chance of 'catching' one or more to try to delay/restrain or damage them.  Intended damage/restraint must be chosen at construction.  Use the main trap building rules for determining potential damage while using the following rolls to delay/entrap: the triggering character is assumed to be in a targeted area but should be allowed to try to escape by rolling a Finesse x2 vs a 20 to 30 Tn \[depending on size/power of the trap] to escape it (every character after the first one must do the same), if failed then the character is stuck for man hours worth of work = to building the trap/Number of victims still trapped before their next roll can be made to escape, untrapped individuals working to free others reduce the time by at least double the amount of time they spend working from the outside.  If the man hours needed to escape are interrupted (trying to avoid the attention of wandering monsters for instance) this merely increases the amount of time restrained.
+
+
+50-52 Passage or path blocked by falling Bars/ Debris. In outdoor situations this channeling style trap doesn't mean much, as it is about as effective as a fence. But it can mark a subtle liminal space demarcation, territory limit or other element of change. Inside of structures when triggered behind the characters this can be far more dangerous by forcing exploration of the unknown with limited resources. These may be more destructible than some stone blocks closing off passage for travel but this is uncommon as most such devices are as tough if not tougher than walls around them. 
+
+
+53-55 Passage closed by stone block: In outdoor situations this channeling style trap doesn't mean much, being about as effective as a stone wall. It can be the result of a knockover or rolling device trap on purpose or accident. This can mark not so subtle liminal space, zones of control or observation, demarcation for territory limit or other element of force or territorial influence. Inside of structures this can be far more dangerous by forcing exploration of the unknown with limited resources. 
+
+
+56-59 Pendulum device: Whether log, ball or blade these items use stored energy from hoisting a heavy item that is released by a trigger setting typically a 10-500+ lb item that then swings back and forth along the path. These are most easily hidden in stonework but using natural materials in a natural environment they can be well hidden until triggered. These deal 1d5 dice of damage to anything resisting the physics involved per event triggered. 
+
+
+60-66 Pit Subtable: check the Pit subtable for the kind of trap encountered.
+
+
+67-69 Projection Distraction : the players might encounter nearly any sort of image concealing in whole or part any possible situation. Only by interacting with the situation enough to get past the image can the situation be successfully resolved. In some cases this may reward the players with additional 'treasure' in the form of projection equipment that can help balance some characters if they have fallen behind. 
+
+
+70-75 Rolling device trap: this setup involves a reasonably low friction rotating object (logs, round boulders etc) near the top of an inclined plane then typically a line runs to a stop that when pulled on releases the potential of the object inevitably setting the rotating objects free to move in the logical path downward, most often in a channeled path. These are typically short paths but some can be quite long although these are slightly easier to detect. 
+
+
+76-78 Room/Area Elevator: due to the large number of previously occupied areas around Ormegarten there are potentially spaces wherein a (one way possible) elevator may exist for keeping an area secret, otherwise an elevator room becomes a pit that may be slow enough to not cause even discomfort during the descent. If this unexpectedly shows up, treat it as a call out to make an interesting new place to explore, because otherwise unless it leads to somewhere interesting then it is simply a pit. Sinkholes are but one example found in nature of elevation altering effects.
+
+
+79-81 Room/Area flooding: sometimes natural areas present a challenge to characters with surprise flooding possible (Traps or Natural Sciences + Perception  to spot the signs before the event occurs). Flooding can not only endanger the characters through their potential lethality but they might inherently damage many kinds of resources including time.
+
+
+82-84 Room/Area Sliding/Turning: Similar in concept to elevator rooms, think of this as an elevator room that moves on an X or Y instead of a Z axis. Perhaps the most devious way to use this is to have it change facing or location during a rest period or at night during a pause. Ice floes or animal islands are a possible natural example.
+
+
+85-88 Scything blade: this trap uses a more sweeping motion with a blade relying on a draw or slash effect rather than thrust (spear) or hurling (arrow). This is a valid variation on sharp bits in victim, which for Meroch means it is only occupying the narrative space without any alteration to the base mechanical system. 
+
+
+8﻿9-91 Spear trap: this weapon is heavier than arrow traps, thus dealing more damage but at a cost to range. 90% of these do not have mechanically auto resetting capacity but 50% do have an extractable spear tip as part of the device, otherwise they typically use fire hardened wood. 20% of these will have a d5 level injectable poison on the spear if thematic to the area.
+
+92-93 Vent, acid: this trap is more dangerous than flooding pits. It releases chemicals that are on the extremes of the PH system. Often powerful enough to damage many materials and equipment which may cause additional hardships over some damage being taken. Naturally occurring materials can create similar effects to planned situations perhaps plants with natural defenses that drip to harm plant matter devouring creatures.
+
+94-96 Vent, heat or flame: With this trap not only can the players encounter the dangers from open flames, geothermal vents or other sources of flammable gasses projection or even production of flammable compounds.  Other kinds of this trap can involve a slow increase in temperature from comfortably warm to causing dehydration over an hour or two. 
+
+
+9﻿7-00 Vertical pathway collapsing, this covered such versatile situations as stairs crumbling under the players, trails disintegrating while being traversed, mountain passes destabilizing, etc… Whether headed up or down the first step is stopping undesired movement, typically by an Athletics + Fitness With every 2 points of Bulk over 0 indicates the ability to support an additional individual of the same size.
