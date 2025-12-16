@@ -9,7 +9,7 @@ tags:
   - chart
   - ""
 summary: |
-  RANDOM LOCATION SEEDS	
+  RANDOM LOCATION SEEDS	(image mismatch sadly)
 image: /site/img/img_20230202_145527581.jpg
 ---
 The main thrust of this writing is based upon the idea of If the GM decides to use the various cult organizations as an expansion for problems around Ormegarten then they should be found in different and interesting locations. In order to facilitate this here are a slew of locations provided to use to randomly select which ones the cultists are temporarily meeting at in order to perform cult activities. If a GM is adding to this list or modifying the results each one of these locations should have their own special notes/eccentricities to make the location a vital choice for their usage over a range of time frames.
