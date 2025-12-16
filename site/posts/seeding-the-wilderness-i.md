@@ -1,0 +1,41 @@
+---
+title: Seeding the Wilderness I
+date: 2025-12-17T17:54:12.117Z
+author: " "
+tags:
+  - post
+  - Ormegarten
+  - Locations
+  - chart
+  - ""
+summary: |
+  RANDOM LOCATION SEEDS	
+image: /site/img/img_20230202_145527581.jpg
+---
+The main thrust of this writing is based upon the idea of If the GM decides to use the various cult organizations as an expansion for problems around Ormegarten then they should be found in different and interesting locations. In order to facilitate this here are a slew of locations provided to use to randomly select which ones the cultists are temporarily meeting at in order to perform cult activities. If a GM is adding to this list or modifying the results each one of these locations should have their own special notes/eccentricities to make the location a vital choice for their usage over a range of time frames.
+	
+The areas outside the Ormegarten Area are liberally sprinkled with a combination of campsites, small grotto-like locations, old dens of various beasts/monsters, road events, civilization signs, and buried secrets. Part of the reason why a large number of these are not as mapped or detailed as many would want is because the cunning GM should make sure the players don't instantly suspect every single potential campsite is unusual or notable as an adventure area. This also makes the module much more usable to most GM's, and even the occasional player, as a starting point for building things in their own style and concepts.  
+
+Before or after the characters investigate, monsters may investigate the spot in order to decide if or how to use the location. Including potentially finding the players inhabiting the stopover point. The points also are not always automatically assumed to be overnight locations. The Players may find themselves taking a break (lunch, or resting the horses, perhaps) near a spot and should be given notice to decide whether to investigate for an encounter/adventure or avoid as they choose.
+
+For the first several sets of posts the core die for Meroch/Chrome (the lowly d10) is intended to be used, until such time as 10 sets of this post are built up then switching to a d% is recommended.
+
+1. Former Farm: a small fortified dugout lodge that just needs thatch and thresh to make livable for an extended family or so in size ranging from (1d10+3) people can camp here. It can permanently house just as many with 2d10 man hours worth of work.  There seems to be no good reason for its lack of occupancy.
+
+2. Astronomers Henge: this is a well aligned construct of massive stones where at the Summer and winter equinoxes, the sun will come up perfectly to illuminate the individual who is standing in the middle of stones as they are Aligned with these two equinoxes. The area stands out as being big and open but has lots of towering stones to wander among, if not ambush or get ambushed from.
+
+3. Haughty Hermitage: A tiny church designed building seems to have warm lights welcoming those outside in.  Upon entering it becomes obvious this location thrives from repurposing a chapel and tombs into a tavern.  But is this really a place for respite? Perhaps, but the beer is unregulated so who knows whether they are getting good or bad drinks?  As a random value roll \[1d10+the Rolling characters Luck]/2 with values outside of the star rating system indicating exceptional problems or benefits (like free food for over 5 and maybe accidental food poisoning for negative values as examples).
+
+4. The Death Ship: Characters upon getting a look at this location should immediately recognize the prow of a ship in an area nowhere near water sticking out of a small hill that is a little too round and steep to be made by nature. The prow is chained to a single rock pillar by old rusty chains. If the characters choose to investigate the site mundanely, they find it is a ship that they simply climb up on the deck of, go to the hatch and enter the ship to find themselves in a burial mound (easier said than done especially if inhabited). Supernaturally speaking there is a 40% chance of finding a rank 1d5 spirit of the dead, that merely seeks to keep dead things from haunting the living. Of course, depending upon the intensity of the situation and if a spirit mystic chooses to interfere, the burial mound could become the source of a problem/curse upon the area.
+
+5. Sewer Tube: In these trying times it feels like concrete from previous generations is the thing that lasts. Unlike the standard dungeon theory these pieces are broken pieces that are not connected to a larger system although some might not know it at first. Most of the worthwhile ones are between 6-8 feet tall and good for 3-6 campers to rest if there is nothing currently using this place to house themselves as one of many possible encounters.
+
+6. Hutts of the Hill. Player characters run across an accumulation of natural and man-made items that enables them to camp easily and effectively simply by throwing a tarp over the center post raised in this rock and stone three wall section that provides at least some protection from the elements more so than lean to or camping under tents. Some may call these Manden, but there is 1D3 at this kind of location. There is a fire pit there is a 20% chance that there is some pre-cut firewood for 1d3 days and there is a 10% chance there is water nearby sufficient for supplying adventures for 1d3 days. Wise characters replace the resources used before leaving to prevent potential conflicts. 
+
+7. Abandoned ‘Siege Engine’. Although missing all the vital components for real operation  this item has marked the area as having a Siege weapon present. It can be used at the bottom confluence of a couple of slightly rolling hills to provide additional reinforcements to the base spine of a camping location for those feeling safe from some minor flooding. It would take almost (-100) as much effort as 
+
+8. Broken Stone Sledge: Simple wreckage is found. This sledge was an armored container for transporting vampires overland during the day but now it is only a lonely monument to the folly of beings too scared to admit immortality of any kind is all too fleeting.  It can shelter 1 being completely without much modifications, but from there the base form can be used to comfortably offer camping for 6 individuals by adding typical camping supplies to the base chassis of the stone sledge. It would take a week of work, ¥500 in supplies and a successful DBR: vehicles roll plus some sort of motive power to get this moved to a new location. And takes twice that effort to make it light proof enough to transport a vampire.
+
+9. Ziggurat Alter: This is a cleared off former hill now obviously a sentient finished pyramid topped by an open flat space suitable for assembling a group of 50 individuals and clearly observing the immediate area around the Ziggurat.  Central to the topmost space is a massive single stone 10 feet long by 4 1/2 feet wide, ending up belly height on a human that has grooves to drain sacrificial liquids. The space can be turned into a good campsite with less than an hours' worth of work.   Due to the attachments to the supernatural world this location has a 2 in 10 chance of having some sort of spirit that may be awoken and negotiated with for some costs and advantages (which are too varied for ease of determining), it is a rank (1+1d5, open ended) Spirit should the power of the spirit need to be randomly determined.   
+
+10. Broken Broch: This is a small, square, laid stone building formerly fortified now shattered, which is an ok place to rest in for 2d10 individuals with basic camping supplies. The first 500-labor hours with a successful Leadership + Crafting roll vs a tn of 25 will improve the quality of a camping force by many intangible benefits, if the roll to repair includes a successful Tactics + Crafting vs a 25 as well this will aid immensely in the defensibility of the structure which is severely lacking at the moment. Further each 1500 labor hours involving similar rolls made after the first will increase the size safely housed by 50 until a max of 100 is reached.
