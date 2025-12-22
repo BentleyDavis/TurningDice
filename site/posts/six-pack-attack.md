@@ -1,35 +1,32 @@
 ---
-title: Six Pack Attack
-date: 2026-01-20T00:55:43.428Z
+title: 5 People Plan
+date: 2026-01-27T00:55:43.428Z
 author: " "
 tags:
   - post
   - characters
   - Chrome
-summary: Random Attendees
+summary: Tables are filling up , bartenders are getting busy
 image: /site/img/screenshot-2025-12-20-144950.png
 ---
-This time the characters walking into the bar are a Reporter, a Tech a Samurai, a Smuggler, a Spy, and a Spirit Mage. 
+This time the characters walking into the bar are the local Projectionist, a Cop, a modern day 'samurai' (I have been considering a Road Ronin as opposed to the 'Street Sam'-uri archetype) an Assassin and a Mystic Healer. 
 
 M﻿eet: 
 
-Loki 'Orion' Creed (Reporter)
-https://docs.google.com/spreadsheets/d/1jKz_6A4_ayOBA5Em9uvt3HcdAmGV-k5UmbggzoP695M/edit?usp=sharing
+Penelope (Projector) 
+https://docs.google.com/spreadsheets/d/1ZSr3uIVFDKLMdg5bT2jGmyM4YgpVnnm0uSJhBoCfVi8/edit?usp=sharing
 
-Mace (Tech)
-https://docs.google.com/spreadsheets/d/10u3OxzYZnj6h3WCEYCvKydOdAbVRJrcSmfCpPAiqmdc/edit?usp=sharing
+Reginald "Tremorts" Mortimer Smythe III (Cop)
+https://docs.google.com/spreadsheets/d/1ydhDZGXF7WQkwmIQkOpK_7hus9VSuRKn2B6uLaXTC-8/edit?usp=sharing
 
-Mason "Bricklayer" Carter (Samurai)
-https://docs.google.com/spreadsheets/d/1PnZKq7rVchMwcaNILGeaHRRbNGkmm-SxYnRGsT3tRMQ/edit?usp=sharing
+Rhe-Mei (Samurai)
+https://docs.google.com/spreadsheets/d/1eKQi6ki256wmLeCE-2j4zqIaXUHZ5Wiyj4yifA5n754/edit?usp=sharing
 
-Maximus (Smuggler)
-https://docs.google.com/spreadsheets/d/14opnL8CySbdlj6LrRtO4SptgtZZBb5Phv14-WDJhkzg/edit?usp=sharing
+Rosemary Nosegay (Assassin) 
+https://docs.google.com/spreadsheets/d/1d62Cxp0D8SNL1FjGKA3oa_pvSmC2z3xnK84KkR14-cc/edit?usp=sharing
 
-Missy Sullivan (Spy)
-https://docs.google.com/spreadsheets/d/1DpOl8gNPtgxIbl-G0LoU0Ab-xe9B8ZYKmV3VWgfMGvA/edit?usp=sharing
-
-Neekizam the Magic Man (Spirit Mage)
-https://docs.google.com/spreadsheets/d/1wSpetkwSg8BNNeSRgAMN_TdFDiIbn9xvBDS6sMruRqU/edit?usp=sharing
+Shelshire (Mystic Healer)
+https://docs.google.com/spreadsheets/d/1-KNHEEEdtaNNsmzej82knn_iSKc3s-AJjxGLq8Ei-wY/edit?usp=sharing
 
 These are set up as online playable versions for seeing some of the basics as to how Chrome works.  Good if I ever get off my duff and actually bring some Chrome to the masses.  And work well as prebuilt character sheets for play at a TTRPG Convention.
 
