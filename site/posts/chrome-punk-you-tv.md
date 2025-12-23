@@ -1,13 +1,11 @@
 ---
 title: Chrome "Punk You" TV
-date: 2025-12-20T14:53:58.807Z
+date: 2025-12-23T14:53:58.807Z
 author: " "
 tags:
-  - post
   - chrome
   - module
   - reality TV
-  - ""
 summary: Module Idea/Design
 image: /site/img/screenshot-2025-12-18-072959.png
 ---
