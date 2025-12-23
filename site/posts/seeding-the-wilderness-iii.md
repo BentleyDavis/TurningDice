@@ -3,7 +3,6 @@ title: Seeding the Wilderness III
 date: 2025-12-19T19:12:14.458Z
 author: " "
 tags:
-  - post
   - Maniculum Podcast
   - Ormegarten
   - Locations
