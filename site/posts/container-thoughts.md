@@ -3,7 +3,8 @@ title: "Container thoughts "
 date: 2025-12-11T21:01:27.203Z
 author: " "
 tags:
-  - post
+  - Containers
+  - dicethoughts
 summary: "No Dice containers needed "
 image: /site/img/350135912_1363328430897597_2729825511596733864_n.png
 ---
