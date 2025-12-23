@@ -1,24 +1,62 @@
 ---
-title: "Container thoughts "
-date: 2025-12-11T21:01:27.203Z
+title: Arching Thoughts
+date: 2025-12-25T21:01:27.203Z
 author: " "
 tags:
   - Containers
-  - dicethoughts
-summary: "No Dice containers needed "
+  - arrows
+  - including
+  - bows
+  - meroch
+summary: Considered theories of general Archery for the Meroch Area
 image: /site/img/350135912_1363328430897597_2729825511596733864_n.png
 ---
-Sure, one of the advantages of my dice is they can be uncontained by conventional methods. No pouches or trays wanted or even useful to these dice so I decided to publish a few thoughts about containers in general from the adaption of fantasy for the 3d10 system, Meroch.(which also has the advantage of making me actually do things with an end goal in the long run. 
+L﻿ike most things in Meroch the simplest answer is that the current regional theories, training, and opinions possibly shaped by local data have resulted in these weapons being the preferred game mechanics optimizations for the game.  These aren't universal (even as close as the Jingling city) there may be different baseline items found or even identical stats with different names.
 
-Part of the reason why equipment (such as that documented below)  for my game will get a lot of attention is due to wanting money choices to be good decision points for part of gameplay.  something I think the early TTRPG's were trying to communicate but it might not have been documented properly as to the utility for reasons both good and bad. 
+—--------------Short Projectile Weapons writeups, Bows—---------------
 
-Containers: These are foundations for utility in both security and mobility of things of value.  Depending upon skills and natural materials available some characters may have the ability to fashion temporary low value containers to aid in concealment or transport for the valued materials.\
-Backpack, leather or wicker, (¥10 for leather or ¥5 for wicker): a container designed to be worn on the back with the main difference between leather and wicker is the rigidity.  Either way can be an advantage, depending upon circumstances.  More advanced versions can be surprisingly effective for their weight, but the more items carried unless skillfully arranged can result in difficulties in locating needed items rapidly, especially in combat.
-Sack, large or small, (¥1-10 depending upon materials and quality)  Sacks are flexible containers and may be made of materials in a general theme of more expensive being more durable but even the cheaper ones can make effective walls with time, effort and skill. Able to be reduced in size by storing techniques pulling out a few sacks to collect and transfer treasures of various kinds is not a bad plan as the sacks can be dropped as a fight starts to allow combat utility and mobility and if picked up again afterwards the treasure may be moved again. 
-Basket, large or small (¥10 for large or ¥5 for small): These are more rigid containers as opposed to sacks.  These may be made of materials in a general theme of more expensive being more durable, but may be made cheaply and durable enough to allow rapid transport of valued collactions of small items.  Rarely these are the containers of choice for treasure being moved. 
-Box, (¥10 for large or ¥1 small, x5 cost for iron or x1 for wooden) typically the large ones are still man portable without tools though not always with small items being able to be handled one handed.  These often have hinges, hasps and small locks attached if not integrated, especially if intended for reusable transport of valuable items, while many single use boxes simply use tough sealing techniques to prevent easy loss or alteration of the contents, though they can be resealed it can be difficult to match the sealing.\
-Chest (¥50 base for common wooden items or up to x10 for quality, additional x3 for being armored or X5 for being made of Iron, up to x5 for making them much larger or smaller). These are in some ways the heaviest of boxes usually due to size and construction materials. These almost always have built in hinges and hasps if not locks and handles for those items commonly transported as well as built to be about the size of an average beings comfortable transportation via a two handed grip plus the price can be also used as a base for barrels at 90% of the cost  (which may be thought of as sealed round containers).  Additional ideas for improvements to these items include securing the containers, it should be noted the most amazing chests have had dozens of locks, screamers, hidden keyholes, secret storage spaces and traps included. 
-Pouch, belt, large or small (¥20 Large, ¥10 Small): A basic part of many a toolbelt, pouches allow the carrying of a variety of items from money, makeup to working parts often discriminated by touch after rank 6 in the related ability.  A pouch often serves the same purpose as a purse except they are genderless. Keep in mind a pouch will often contain clues to past behaviors ranging from seconds before they were taken from the owner's possession to years ago resulting in a variety of clues to be uncovered.  Screamers and many other security devices may be attached to closeable pouches for 5x their base cost as long as they obey all the other rules for the devices.  These can get as expensive as 1000X the value of an ordinary pouch for amazingly built or just pretty pouches.
-Skin or Gourd for water or wine (¥10 Large, ¥5 Small): this is the basic way to transport volumes of consumable liquids during travel between fairly close water sources.  Skins are flexible and gourds are inflexible is the major difference, as both may have an impact upon their contents.  Barrels and many other kinds of containers are used for transporting larger volumes of liquid.\
-Vial, Glass or Glass lined Steel (¥5 Glass, ¥15 Glass lined steel): 
-Case, bone or leather, map or scroll (costing  ¥10 for Bone and ¥5): While at a base these are simple dual capped tubes Leather and there is not much difference between the idealized storage of maps and scrolls as well as other paper/velum documents as needed the prime difference is the utilization of a rigid protective container and a soft protective container one of which is the difference between hard failures from hard containers and soft failures from soft containers.  These also are often decorated, may be encased in expensive cloths to protect and can be quite valuable items in their own right.
+Short/Little Hunting Bow (10/20/30/60 ranges, 0 accuracy, clip of 1 quarrel, dmg 7, 6 lbs. 30”, Not concealable, Recoil 0, Reduces soft armor by 2 or half at most. 1 action to reload)
+
+Compound Hunting Bow (10/20/30/75 ranges, 0 accuracy, clip of 1 bolt, dmg 8, 6 lbs. 30” Not concealable, Recoil 0, Reduces the value of soft armor by half. 1 action to reload.)
+
+Bow, Long/Great, (15/30/45/90 ranges, 0 accuracy, clip of 1 bolt, dmg 8, 6 lbs. 30” Not concealable, Recoil 0, Reduces the value of soft armor by half. 1 action to reload.)
+
+Collapsible Bow (10/20/30/75 ranges, 0 accuracy, clip of 1 bolt, dmg 8, 6 lbs. 30” unfolded Not concealable unless folded, Recoil 0, Reduces the value of soft armor by half. 1 action to reload.)
+
+Hunting Crossbow (20/40/80/120 ranges, -1 accuracy, clip of 1 bolt, dmg 9, 6 lbs. 30” Not concealable, Recoil 0, Reduces the value of soft armor by half. 10 step delay to reload, -3 steps if the character has 4+ Bulk. And -3 steps if a Fast Draw + Finesse by 5 or more.)
+
+Nollkinish Arbelest (30/45/60/130 ranges, +1 accuracy, clip of 1 bolt, dmg 12, 12 lbs. 40”, Not concealable, Recoil 2, Reduces the value of soft armor by 1/4. 2 actions to wind and reload.) 
+
+Cho-ko-nu (15/30/60/80 ranges, +1 accuracy, clip of 10 bolts, dmg 7, 8 lbs. 30” Not concealable, Recoil 1, Auto fire yes but 1-3, Reduces the value of soft armor by half. Reload 2 Bolts into the clip each segment, +1 bolt if the character has 4+ Bulk and a further +1 bolt if Fast Draw + Finesse is 5 or more, no reload and fire in the same round.)			
+
+\----------Arrows, Quarrels and Bow Specific Accessories—---—---------
+Normal Arrows cost ¥15/arrow for broadhead hunting arrows 
+
+
+Heavy Arrows cost ¥20/arrow reduces each range category by 5, but deal +1 Damage and are reusable.
+
+
+Target Arrows cost ¥5 and do -2 damage are also available.
+
+
+Anti-Armor Arrows cost ¥100/arrow. These reduce soft armor to 1⁄4 value but reduce damage by 1. 
+
+
+Explosive Arrows cost ¥50/arrow and do 2 additional damage but are single use.
+
+
+Collapsible Arrows cost ¥75/arrow and are reduced to 1⁄2 length when collapsed.
+
+
+Frog Crotch Arrows cost ¥60. These are designed to catch and cut exposed ropes, cords and unarmored wires easier than other kinds of arrowheads. Halve the penalties to target
+
+
+Humming Bulb for ¥30 these arrows do 2 damage total if they strike a target, their more important effect is the heads make a loud whistling noise in order to serve as alerting devices typically for military units as part of a coordinated effort.
+
+Cloth Wrapped Arrows are typically broadhead hunting arrows which have oil-soaked cloth around the head of the arrow in order to ignite flammable objects or locations after being lit then fired this modification reduces each range category by 5, deals -1 Damage and are not reusable.
+
+Silver Tipped Arrows cost ¥50/arrow and do 2 additional damage to certain creatures with silver metal allergies, -1 damage if they strike armor but are single use.
+
+Extra bow strings, ¥10/string. designed for specific bows and are not interchangeable (especially between Crossbows and other kinds of Bows) unless hand built to have various string styles for a particular bow.  Without a spare the bow becomes useless if the string gets wet or cut. 
+
+Quiver: The standard, but specialized method for transport of arrows and bolts is 1 dozen capacity for ¥30 or 2 doz. Cap. for ¥45, spend ¥50 for two score (40) arrows, quarrels or bolts capacity,
