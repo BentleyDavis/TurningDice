@@ -1,0 +1,31 @@
+---
+title: Seeding the Wilderness IV
+date: 2026-01-14T18:11:41.960Z
+author: " "
+tags:
+  - Maniculum Podcast
+  - Ormegarten
+  - Locations
+  - chart
+summary: |
+  RANDOM LOCATION SEEDS
+image: /site/img/img_0654-2-.jpg
+---
+For a fourth time we have some locations brought forth for examination from notes loosely compiled into details to further Ormegarten and Meroch. The main thrust of this writing is based upon the idea of if the GM decides to use the various cult organizations as an expansion for problems around Ormegarten then they should be found in different and interesting locations. In order to facilitate this here are a slew of locations provided to use to randomly select which ones the cultists are temporarily meeting at in order to perform cult activities. If a GM is adding to this list or modifying the results each one of these locations should have their own special notes/eccentricities to make the location a vital choice for their usage over a range of time frames.  \
+	
+The areas outside the Ormegarten Area are liberally sprinkled with a combination of campsites, small grotto-like locations, old dens of various beasts/monsters, road events, civilization signs, and buried secrets. Part of the reason why a large number of these are not as mapped or detailed as many would want is because the cunning GM should make sure the players don't instantly suspect every single potential campsite is unusual or notable as an adventure area. This also makes the module much more usable to most GM's, and even the occasional player, as a starting point for building things in their own style and concepts.   
+
+Before or after the characters investigate, monsters may investigate the spot in order to decide if or how to use the location. Including potentially finding the players inhabiting the stopover point. The points also are not always automatically assumed to be overnight locations. The Players may find themselves taking a break (lunch, or resting the horses, perhaps) near a spot and should be given notice to decide whether to investigate for an encounter/adventure or avoid as they choose.
+
+For the first several sets of posts the core die for Meroch/Chrome (the lowly d10) is intended to be used, until such time as 10 sets of this post are built up then switching to a d% is recommended.
+
+1. Hunting track Single: Recently (1d5-1 hours) some Medium Game passed by, if hunted results in a reasonable difficulty battle such as against 1d6 wolves, coyotes, badgers, possibly something interesting like a skunk or another significant encounter. The DM should run a suitable encounter, with the reward being much more in the way of food supplies and furs of value (2d8 Man days’ worth of food at a minimum plus about 2d10x5 Lions worth of hide and/or furs.  But it might not pan out that way.
+2. Hunting track (multiple): Here is a natural confluence of paths between a water and food resource that is used by multiple kinds of creatures that recently (1d5-1 hours rolled each) were here, roll 1d5 twice and combine in sensible ways 1. Medium Game, 2. Non-noteworthy Small Game, 3. Small Game, 4. High Value Small Game, 5. Large Game (see the relevant Hunting Track Single descriptions) 
+3. Hunting track (multiple), A Small Game path intersects with a Large Game path frequented (1d5-1 hours rolled each) on occasion (see the relevant Hunting Track Single descriptions).	
+4. Built Blind: This is a constructed location intended to improve the chances of someone finding success in hunting. Occupied does not necessarily mean by builders/hunters of this blind. 1d5= 1. Slightly damp/marshy but 70% of the time unoccupied, 2. Tree based, but 90% unoccupied 3. There is a 50% chance a hunting track is nearby of this 80% likely unoccupied blind. 4. A Bow hunting Blind, 80% chance of being unoccupied 1d5 Arrowheads may be found around this blind. 5. Scent nullifiers in the form of plants obscuring many scent based details are used around this blind occupied less than 30% of the time. 
+5.  ﻿Hunting track (multiple), Medium Game path crosses with a Non-noteworthy Small Game tracks infrequently (1d10 hours, rolled each) visited on occasion (see the relevant Hunting Track Single descriptions).
+6. Hear something?: A noise occurs that might be humanoid speech but through obscuring foliage. If and how the characters investigate they will discover the following. 1d5= 1. water source audio trick, 2. Imitative harmless animal, (eg: Mockingbird) 3.  4. Some sort of Humanoid who may be opposed to the players (use Reaction Chart B) is trying to set up an ambush, 20% chance the DM should roll on the Built Blind Entry as well. 5. Some sort of Humanoid who may not be opposed to the players (use Reaction Chart A) is trying to set up an ambush, 20% chance the DM should roll on the Built Blind Entry as well. 
+7. Hunting track (multiple), A Large Game trail crosses some Medium Game signs (see the relevant Hunting Track Single descriptions) a while ago (1d5+1 hours rolled each). 
+8. Hunting track Single Recently (1d5-1 hours) some Small Game 1d4 rabbits or other fur/hide bearing game (such as ferrets, polecats, etc.…) which provides enough food for one day for a man and a low quality but useful hide (1d6 silvers in value perhaps) for each beast while the players lose 1d6 ammunition in pursuit.
+9. Hunting track Single: A little while ago (1d5-1 hours) there were some (60-40 chance of either) game around. \[Non-noteworthy Small Game (typically game birds like a covey of quail, lesser prairie chickens, possibly a single wild turkey etc.…) but enough that the players lose 1d6 ammo in pursuit and find enough food for one day for d6 men (or d6 man days as another way to say it).] OR \[High Value Small Game with higher value furs than other Small Game, this should be 1d4 beasts such as mink, fox, which generates no food but a successful hunt results in 5d10x5 Lions worth of trade fur for 1d10 lost ammunition.]
+10. Hunting track (multiple), 50-50 chance of either \[High Value Small Game trail] OR \[Large Game trail] crosses a water source (see the relevant Hunting Track Single descriptions) making the challenge to either ford the waterway quickly or add 1d5 hours onto the trailing characters tracking the animals that may be found within 1d5-1 hours.
