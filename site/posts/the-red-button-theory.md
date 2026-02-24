@@ -17,11 +17,11 @@ I'm not sure I agree with those statements. but let's pretend like they are righ
 
 Of course, back in the 70's there wasn't a so named clock system although there were several elements that can easily be pointed to as fulfilling all those elements (even the ones I disagree with) the escape from the Volcano mechanics at the end of the A4 Module In the Dungeons of the Slave Lords by Lawrence Schick as an example of a clock that stops for nothing (with telegraphed foreknowledge that this is going to lead to a volcanic interruption and a "rocks fall everybody dies" situation) and instructions for the Gm to keep an eye on the clock and every 15 minutes announce another volcanic rumble until the players get on the boat and off the island (specifically: no rests to recover spells or anything else.)
 
-Which means that Clocks aren't new, they are newly named.  just not new.
+Which means that Clocks aren't new, they are newly named, just not new.
 
 What does this have to do with red buttons?
 
-Simply put there are two kinds of Red buttons: ones which have a klaxon, a countdown and announce the equivalent to "Self-Destruct sequence is in X Time" and then starts counting down (the "Clock" as described above).  maybe not as dramatic as spelled out but still essentially the same.
+Simply put I am defining the Clock as a subset of the Red button. Because there are two kinds of Red buttons: ones which have a klaxon, a countdown and announce the equivalent to "Self-Destruct sequence is in X Time" and then starts counting down (the "Clock" as described above).  Maybe not as dramatic as spelled out but still essentially the same.  The characters both in and out of game aware of timing and consequences. 
 
 ﻿And then there is a Red button that when pushed... doesn't communicate anything.  Now then to some people this is nothing.  But this Red button that doesn't say what it does, is to other people the equivalent of not seeing the monster in the horror movie.  To other people this is a pretty stressful mechanic because now they have to investigate to figure out which one of these four (or more!) events actually happened.
 
