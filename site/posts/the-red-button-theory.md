@@ -4,7 +4,7 @@ date: 2026-02-18T21:33:12.227Z
 author: " "
 tags:
   - post
-summary: There are sone issues with clocks
+summary: There are some issues with clocks
 image: /site/img/screenshot-2026-02-23-190544.png
 ---
 I﻿ ran across a discussion about Clocks that the redditor indicated that there were two key elements to Clocks in TTRPG's 
