@@ -1,9 +1,10 @@
 ---
-title: Dice Easier sale
+title: Dice Easier sale 03
 date: 2026-02-25T00:10:08.419Z
 author: " "
 tags:
   - post
+  - dice
 summary: Just ping here
 image: /site/img/img_3144.jpeg
 ---
